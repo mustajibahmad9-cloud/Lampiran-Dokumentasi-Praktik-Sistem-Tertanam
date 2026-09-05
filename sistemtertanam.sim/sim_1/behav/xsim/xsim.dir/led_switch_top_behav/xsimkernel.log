@@ -1,0 +1,7 @@
+Running: xsim.dir/led_switch_top_behav/xsimk.exe -simmode gui -wdb led_switch_top_behav.wdb -simrunnum 0 -socket 53451
+Design successfully loaded
+Design Loading Memory Usage: 26424 KB (Peak: 26424 KB)
+Design Loading CPU Usage: 2655 ms
+Simulation completed
+Simulation Memory Usage: 26812 KB (Peak: 26812 KB)
+Simulation CPU Usage: 2749 ms
